@@ -20,12 +20,11 @@
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
 ## Sections 📚
-✔️ About\
-✔️ Interests\
+✔️ About Me\
 ✔️ Education\
+✔️ Expertise\
 ✔️ Certification and Awards\
 ✔️ Experience\
-✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
 ✔️ Contact Info
